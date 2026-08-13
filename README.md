@@ -296,16 +296,6 @@ Transforming raw business data into clear insights, interactive dashboards, and 
 <h2 align="center">CONTRIBUTION</h2>
 
 <div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/github-contribution-calendar-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/github-contribution-calendar.svg" />
-<img width="100%" alt="GitHub contributions in the last year" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/github-contribution-calendar-dark.svg" />
-</picture>
-<br/><br/>
-<img src="https://img.shields.io/badge/AUTO_SYNC-EVERY_6_HOURS-00F5FF?style=flat-square&labelColor=0F172A" alt="Synced every six hours" />
-<img src="https://img.shields.io/badge/WORKFLOW-ACTIVE-22C55E?style=flat-square&labelColor=0F172A" alt="Workflow active" />
-
-<br/><br/>
 
 <h3>Contribution Snake</h3>
 

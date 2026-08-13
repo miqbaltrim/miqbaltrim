@@ -190,14 +190,7 @@ Clean and functional interfaces with strong visual identity.
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miqbaltrim&theme=github_dark" alt="GitHub stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miqbaltrim&theme=github_dark" alt="Top languages by repository" />
-
-</div>
-
-<br/>
-
-<div align="center">
+<p><em>Live contribution metrics from the same rolling 12-month calendar as GitHub.</em></p>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-streak-dark.svg" />
@@ -215,7 +208,11 @@ Clean and functional interfaces with strong visual identity.
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=miqbaltrim&bg_color=0D1117&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-activity-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-activity.svg" />
+<img width="98%" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-activity-dark.svg" alt="GitHub contribution activity for the last 30 days" />
+</picture>
 
 </div>
 
@@ -236,15 +233,15 @@ Clean and functional interfaces with strong visual identity.
 <img src="https://img.shields.io/badge/AUTO_SYNC-EVERY_6_HOURS-00F5FF?style=flat-square&labelColor=0F172A" alt="Synced every six hours" />
 <img src="https://img.shields.io/badge/WORKFLOW-ACTIVE-22C55E?style=flat-square&labelColor=0F172A" alt="Workflow active" />
 
-<details>
-<summary><strong>🐍 Play contribution snake</strong></summary>
-<br/>
+<br/><br/>
+
+<h3>🐍 Contribution Snake</h3>
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake.svg" />
 <img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-</details>
 </div>
 
 <br/>

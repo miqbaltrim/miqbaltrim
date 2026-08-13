@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import html
+import math
 import re
 import sys
 import urllib.request
@@ -224,6 +225,65 @@ def render_streak(total: int, days: list[ContributionDay], mode: str) -> str:
     return "\n".join(lines)
 
 
+def render_activity(days: list[ContributionDay], mode: str) -> str:
+    theme = THEMES[mode]
+    recent = days[-30:]
+    width, height = 900, 225
+    left, right, top, bottom = 58, 24, 55, 38
+    chart_width = width - left - right
+    chart_height = height - top - bottom
+    raw_max = max((item.count for item in recent), default=1)
+    chart_max = max(5, int(math.ceil(raw_max / 5)) * 5)
+    total = sum(item.count for item in recent)
+
+    points: list[tuple[float, float]] = []
+    for index, item in enumerate(recent):
+        x = left + index * chart_width / max(1, len(recent) - 1)
+        y = top + chart_height - (item.count / chart_max * chart_height)
+        points.append((x, y))
+
+    line_points = " ".join(f"{x:.1f},{y:.1f}" for x, y in points)
+    baseline = top + chart_height
+    area_path = (
+        f"M {points[0][0]:.1f} {baseline:.1f} "
+        + " ".join(f"L {x:.1f} {y:.1f}" for x, y in points)
+        + f" L {points[-1][0]:.1f} {baseline:.1f} Z"
+    )
+
+    lines = svg_header(width, height, "GitHub contribution activity for the last 30 days")
+    lines.extend(
+        [
+            '<defs><linearGradient id="activity-fill" x1="0" y1="0" x2="0" y2="1">'
+            f'<stop offset="0" stop-color="{theme["accent"]}" stop-opacity="0.35"/>'
+            f'<stop offset="1" stop-color="{theme["accent"]}" stop-opacity="0.02"/>'
+            '</linearGradient></defs>',
+            f'<rect width="{width}" height="{height}" rx="8" fill="{theme["background"]}"/>',
+            f'<rect x="0.5" y="0.5" width="899" height="224" rx="8" fill="none" stroke="{theme["border"]}"/>',
+            f'<text x="24" y="31" fill="{theme["text"]}" font-size="16" font-weight="600">Contribution Activity · Last 30 Days</text>',
+            f'<text x="876" y="31" text-anchor="end" fill="{theme["muted"]}" font-size="13">{total:,} contributions</text>',
+        ]
+    )
+
+    for tick in range(6):
+        value = chart_max * tick / 5
+        y = baseline - chart_height * tick / 5
+        label = str(int(value))
+        lines.append(f'<line x1="{left}" y1="{y:.1f}" x2="{width - right}" y2="{y:.1f}" stroke="{theme["border"]}" stroke-dasharray="3 5"/>')
+        lines.append(f'<text x="{left - 12}" y="{y + 4:.1f}" text-anchor="end" fill="{theme["muted"]}" font-size="10">{label}</text>')
+
+    lines.append(f'<path d="{area_path}" fill="url(#activity-fill)"/>')
+    lines.append(f'<polyline points="{line_points}" fill="none" stroke="{theme["accent"]}" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>')
+    for x, y in points:
+        lines.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="2.5" fill="{theme["background"]}" stroke="{theme["accent"]}" stroke-width="2"/>')
+
+    for index in (0, 7, 14, 21, 29):
+        x = left + index * chart_width / max(1, len(recent) - 1)
+        lines.append(f'<text x="{x:.1f}" y="{height - 14}" text-anchor="middle" fill="{theme["muted"]}" font-size="10">{format_date(recent[index].day)}</text>')
+
+    lines.append('</svg>')
+    return "\n".join(lines)
+
+
 def write_asset(path: Path, content: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(content, encoding="utf-8", newline="\n")
@@ -247,6 +307,8 @@ def main() -> int:
     write_asset(output / "github-contribution-calendar.svg", render_calendar(total, days, "light"))
     write_asset(output / "github-streak-dark.svg", render_streak(total, days, "dark"))
     write_asset(output / "github-streak.svg", render_streak(total, days, "light"))
+    write_asset(output / "github-activity-dark.svg", render_activity(days, "dark"))
+    write_asset(output / "github-activity.svg", render_activity(days, "light"))
     print(f"Source total: {total} contributions in the last year")
     return 0
 

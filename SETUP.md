@@ -48,7 +48,7 @@ git push
 5. Setelah workflow berhasil, branch `output` akan dibuat otomatis.
 6. Refresh halaman profil GitHub.
 
-Snake dan kartu streak dijadwalkan diperbarui otomatis setiap 6 jam.
+Kalender, grafik aktivitas, kartu streak, dan snake diperbarui otomatis setiap 6 jam.
 
 ## Membaca kontribusi privat secara akurat
 

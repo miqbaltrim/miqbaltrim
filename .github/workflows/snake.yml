@@ -43,10 +43,24 @@ jobs:
           --user "${{ github.repository_owner }}"
           --output-dir dist
 
+      - name: ✅ Validate Generated Assets
+        run: |
+          test -s dist/github-contribution-grid-snake.svg
+          test -s dist/github-contribution-grid-snake-dark.svg
+          test -s dist/github-contribution-calendar.svg
+          test -s dist/github-contribution-calendar-dark.svg
+          test -s dist/github-streak.svg
+          test -s dist/github-streak-dark.svg
+          test -s dist/github-activity.svg
+          test -s dist/github-activity-dark.svg
+          grep -q "contributions in the last year" dist/github-contribution-calendar.svg
+          grep -q "Contributions in the Last Year" dist/github-streak.svg
+          find dist -maxdepth 1 -type f -printf "%f %s bytes\n" | sort
+
       - name: 🚀 Publish Contribution Assets
-        uses: crazy-max/ghaction-github-pages@v5.0.0
+        uses: peaceiris/actions-gh-pages@v4.1.0
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true

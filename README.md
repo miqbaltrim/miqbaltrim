@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F5FF,50:7C3AED,100:0F172A&text=MIQBALTRIM&fontColor=FFFFFF&fontSize=55&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20MOBILE%20DEVELOPER%20%7C%20UI%2FUX&descAlignY=60&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F5FF,50:7C3AED,100:0F172A&text=Muhammad+Iqbal+Tri+Mulyono&fontColor=FFFFFF&fontSize=55&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20MOBILE%20DEVELOPER%20%7C%20UI%2FUX&descAlignY=60&descSize=16"/>
 
 </div>
 
@@ -44,18 +44,25 @@ Full Stack Developer, Mobile Developer & Data Analyst who turns ideas into<br/>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 <h3>What I Do</h3>
 
-<p>Build modern web and mobile applications<br/>for real-world business workflows.</p>
+<p>Build modern web, mobile, and data solutions for real-world business workflows.</p>
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="34%" valign="top" align="center">
 
 <h3>Current Mission</h3>
 
-<p>Bridging development and design to create<br/>simple, reliable, and delightful experiences.</p>
+<p>Bridge development, design, and data to create simple, reliable digital experiences.</p>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>Data & Insights</h3>
+
+<p>Turn raw business data into useful dashboards, automation, and actionable insights.</p>
 
 </td>
 </tr>
@@ -328,8 +335,6 @@ Transforming raw business data into clear insights, interactive dashboards, and 
 <img src="https://img.shields.io/badge/CURIOSITY-∞-EC4899?style=flat-square&labelColor=161B22" alt="Infinite curiosity" />
 
 <br/><br/>
-
-<code>user@miqbaltrim:~$ build --learn --improve --repeat</code>
 
 </div>
 

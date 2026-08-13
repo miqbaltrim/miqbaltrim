@@ -58,9 +58,20 @@ jobs:
           find dist -maxdepth 1 -type f -printf "%f %s bytes\n" | sort
 
       - name: 🚀 Publish Contribution Assets
-        uses: peaceiris/actions-gh-pages@v4.1.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
-          force_orphan: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init --initial-branch=output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git commit -m "Update profile contribution assets"
+
+          local_sha="$(git rev-parse HEAD)"
+          remote_url="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push --force "$remote_url" output:output
+          remote_sha="$(git ls-remote "$remote_url" refs/heads/output | cut -f1)"
+
+          test "$local_sha" = "$remote_sha"
+          echo "Published and verified output commit: $remote_sha"

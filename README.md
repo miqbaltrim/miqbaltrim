@@ -193,9 +193,9 @@ Clean and functional interfaces with strong visual identity.
 <p><em>Live contribution metrics from the same rolling 12-month calendar as GitHub.</em></p>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-streak-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-streak.svg" />
-<img width="95%" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-streak-dark.svg" alt="GitHub contributions and streaks for the last year" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-streak-dark.svg?v=2" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-streak.svg?v=2" />
+<img width="95%" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-streak-dark.svg?v=2" alt="GitHub contributions and streaks for the last year" />
 </picture>
 
 </div>
@@ -209,9 +209,9 @@ Clean and functional interfaces with strong visual identity.
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-activity-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-activity.svg" />
-<img width="98%" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-activity-dark.svg" alt="GitHub contribution activity for the last 30 days" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-activity-dark.svg?v=2" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-activity.svg?v=2" />
+<img width="98%" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-activity-dark.svg?v=2" alt="GitHub contribution activity for the last 30 days" />
 </picture>
 
 </div>
@@ -225,9 +225,9 @@ Clean and functional interfaces with strong visual identity.
 <div align="center">
 <p><em>Synced from the same rolling 12-month contribution calendar shown by GitHub.</em></p>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-calendar-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-calendar.svg" />
-<img width="100%" alt="GitHub contributions in the last year" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-calendar-dark.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-calendar-dark.svg?v=2" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-calendar.svg?v=2" />
+<img width="100%" alt="GitHub contributions in the last year" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-calendar-dark.svg?v=2" />
 </picture>
 <br/><br/>
 <img src="https://img.shields.io/badge/AUTO_SYNC-EVERY_6_HOURS-00F5FF?style=flat-square&labelColor=0F172A" alt="Synced every six hours" />

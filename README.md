@@ -80,27 +80,72 @@ Full Stack & Mobile Developer who turns ideas into<br/>
 
 <div align="center">
 
-### `// Backend & API`
+<p><em>A modern toolkit for building polished products from interface to infrastructure.</em></p>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" />
-
-### `// Mobile & Frontend`
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,bootstrap&theme=dark" />
-
-### `// Database`
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-
-### `// Development Tools`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-### `// Design`
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
+<img src="https://img.shields.io/badge/STACK-FULL_CYCLE-00F5FF?style=for-the-badge&labelColor=0F172A" alt="Full-cycle stack" />
+<img src="https://img.shields.io/badge/FOCUS-SCALABLE_PRODUCTS-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Scalable products" />
 
 </div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+<h3>⚙️ Backend & API</h3>
+<p><img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" alt="PHP, Laravel, and Node.js" /></p>
+<p><code>REST API</code> <code>Business Logic</code> <code>Automation</code></p>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<h3>✨ Frontend Engineering</h3>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css,bootstrap&perline=7&theme=dark" alt="React, Next.js, Tailwind CSS, JavaScript, HTML, CSS, and Bootstrap" /></p>
+<p><code>Responsive UI</code> <code>Design Systems</code> <code>Web Apps</code></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<h3>📱 Mobile & Data</h3>
+<p><img src="https://skillicons.dev/icons?i=flutter,dart,postgres,mysql&theme=dark" alt="Flutter, Dart, PostgreSQL, and MySQL" /></p>
+<p><code>Cross Platform</code> <code>Relational Data</code> <code>Offline First</code></p>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<h3>🧰 Development Environment</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio Code, and Postman" />
+<a href="https://laragon.org/"><img height="48" src="https://cdn.simpleicons.org/laragon/0E83CD" alt="Laragon" title="Laragon" /></a>
+</p>
+<p><code>Git Workflow</code> <code>API Testing</code> <code>Laragon</code></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<h3>🤖 AI Pair Programming</h3>
+<p>
+<a href="https://developers.openai.com/codex/"><img height="48" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/codex-logo.png" alt="OpenAI Codex" title="OpenAI Codex" /></a>
+&nbsp;&nbsp;
+<a href="https://www.anthropic.com/claude"><img height="48" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" title="Claude" /></a>
+</p>
+<p><code>Codex</code> <code>Claude</code> <code>Agentic Workflow</code></p>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<h3>🎨 Product Design</h3>
+<p><img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Figma, Adobe Photoshop, and Adobe Illustrator" /></p>
+<p><code>UI/UX</code> <code>Prototyping</code> <code>Visual Identity</code></p>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -186,11 +231,10 @@ Clean and functional interfaces with strong visual identity.
 
 ---
 
-<h2 align="center">📊 GITHUB MATRIX</h2>
+<h2 align="center">GITHUB ACTIVITY</h2>
 
 <div align="center">
 
-<p><em>Live contribution metrics from the same rolling 12-month calendar as GitHub.</em></p>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/github-streak-dark.svg" />
@@ -204,7 +248,7 @@ Clean and functional interfaces with strong visual identity.
 
 ---
 
-<h2 align="center">⚡ DEVELOPMENT ACTIVITY</h2>
+<h2 align="center">DEVELOPMENT ACTIVITY</h2>
 
 <div align="center">
 
@@ -220,10 +264,9 @@ Clean and functional interfaces with strong visual identity.
 
 ---
 
-<h2 align="center">🐍 CONTRIBUTION MATRIX</h2>
+<h2 align="center">CONTRIBUTION</h2>
 
 <div align="center">
-<p><em>Synced from the same rolling 12-month contribution calendar shown by GitHub.</em></p>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/github-contribution-calendar-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/github-contribution-calendar.svg" />

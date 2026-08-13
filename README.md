@@ -77,14 +77,9 @@ Full Stack Developer, Mobile Developer & Data Analyst who turns ideas into<br/>
 
 ---
 
-<h2 align="center">⚡ TECH ARSENAL</h2>
+<h2 align="center">TECH & TOOLS</h2>
 
 <div align="center">
-
-<p><em>A modern toolkit for building polished products from interface to infrastructure.</em></p>
-
-<img src="https://img.shields.io/badge/STACK-FULL_CYCLE-00F5FF?style=for-the-badge&labelColor=0F172A" alt="Full-cycle stack" />
-<img src="https://img.shields.io/badge/FOCUS-SCALABLE_PRODUCTS-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Scalable products" />
 
 </div>
 

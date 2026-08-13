@@ -35,12 +35,13 @@
 <h3>Hi, I'm Iqbal 👋</h3>
 
 <p>
-Full Stack & Mobile Developer who turns ideas into<br/>
+Full Stack Developer, Mobile Developer & Data Analyst who turns ideas into<br/>
 <strong>useful, scalable, and thoughtfully designed digital products.</strong>
 </p>
 
 <img src="https://img.shields.io/badge/Full_Stack-Developer-00F5FF?style=flat-square&labelColor=0F172A" />
 <img src="https://img.shields.io/badge/Mobile-Developer-7C3AED?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Data-Analyst-F2C811?style=flat-square&labelColor=0F172A" />
 <img src="https://img.shields.io/badge/UI%2FUX-Enthusiast-EC4899?style=flat-square&labelColor=0F172A" />
 
 </div>
@@ -145,6 +146,25 @@ Full Stack & Mobile Developer who turns ideas into<br/>
 
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+<h3>📊 Data & Analytics</h3>
+<p>
+<img height="48" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/excel-logo.svg" alt="Microsoft Excel" title="Microsoft Excel" />
+&nbsp;
+<img height="48" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/power-pivot-logo.svg" alt="Power Pivot" title="Power Pivot" />
+&nbsp;
+<img height="48" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/power-bi-logo.svg" alt="Microsoft Power BI" title="Microsoft Power BI" />
+&nbsp;
+<img height="48" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python" />
+&nbsp;
+<img height="48" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/macros-logo.svg" alt="Excel Macros and VBA" title="Excel Macros and VBA" />
+</p>
+<p><code>Data Cleaning</code> <code>Data Modeling</code> <code>Dashboard</code> <code>Business Intelligence</code> <code>Automation</code></p>
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -219,6 +239,30 @@ Clean and functional interfaces with strong visual identity.
 <p align="center">
 
 `Figma` `Photoshop` `Illustrator` `UI/UX`
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table align="center" width="50%">
+<tr>
+
+<td width="100%" valign="top" align="center">
+
+<h3 align="center">📊 Data Analyst</h3>
+
+<p align="center">
+Transforming raw business data into clear insights, interactive dashboards, and actionable decisions.
+</p>
+
+<p align="center">
+
+`Excel` `Power Pivot` `Power BI` `Python` `Macros / VBA`
 
 </p>
 

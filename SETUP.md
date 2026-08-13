@@ -49,6 +49,8 @@ git push
 6. Refresh halaman profil GitHub.
 
 Kalender, grafik aktivitas, kartu streak, dan snake diperbarui otomatis setiap 6 jam.
+Semua aset terbaru disimpan di folder `assets` pada branch `main`, sehingga README
+tidak bergantung pada branch deployment terpisah.
 
 ## Membaca kontribusi privat secara akurat
 

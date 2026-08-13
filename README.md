@@ -308,55 +308,71 @@ Transforming raw business data into clear insights, interactive dashboards, and 
 
 ---
 
-<h2 align="center">SYSTEM STATUS</h2>
+<h2 align="center">DEVELOPMENT PHILOSOPHY</h2>
 
-<div align="center">
+<p align="center">
+  <em>From a meaningful problem to a product that keeps getting better.</em>
+</p>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge&labelColor=0F172A" alt="Status online" />
-<img src="https://img.shields.io/badge/MODE-BUILDING-00F5FF?style=for-the-badge&labelColor=0F172A" alt="Building mode" />
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
-<br/><br/>
+<img src="https://img.shields.io/badge/01-DISCOVER-00F5FF?style=for-the-badge&labelColor=0F172A" alt="01 Discover" />
 
-<img src="https://img.shields.io/badge/ENERGY-100%25-7C3AED?style=flat-square&labelColor=161B22" alt="Energy 100 percent" />
-<img src="https://img.shields.io/badge/COFFEE-85%25-F59E0B?style=flat-square&labelColor=161B22" alt="Coffee 85 percent" />
-<img src="https://img.shields.io/badge/BUGS-15%25-EF4444?style=flat-square&labelColor=161B22" alt="Bugs 15 percent" />
-<img src="https://img.shields.io/badge/CURIOSITY-∞-EC4899?style=flat-square&labelColor=161B22" alt="Infinite curiosity" />
+<h3>Think With Purpose</h3>
 
-<br/><br/>
+<p>Understand the problem, explore the context, and define what success should look like.</p>
 
-</div>
+<p><code>IDEA</code> &nbsp; <code>RESEARCH</code> &nbsp; <code>STRATEGY</code></p>
+
+</td>
+<td width="34%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/02-ENGINEER-7C3AED?style=for-the-badge&labelColor=0F172A" alt="02 Engineer" />
+
+<h3>Build With Precision</h3>
+
+<p>Turn clear thinking into accessible design, clean code, and reliable experiences.</p>
+
+<p><code>DESIGN</code> &nbsp; <code>CODE</code> &nbsp; <code>TEST</code></p>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/03-EVOLVE-00E676?style=for-the-badge&labelColor=0F172A" alt="03 Evolve" />
+
+<h3>Improve With Data</h3>
+
+<p>Ship confidently, measure real impact, and continuously refine every solution.</p>
+
+<p><code>DEPLOY</code> &nbsp; <code>MEASURE</code> &nbsp; <code>IMPROVE</code></p>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
----
-
-<h2 align="center">DEVELOPMENT PHILOSOPHY</h2>
-
 <div align="center">
 
-```text
-IDEA
-  │
-  ▼
-RESEARCH
-  │
-  ▼
-DESIGN
-  │
-  ▼
-CODE
-  │
-  ▼
-TEST
-  │
-  ▼
-DEPLOY
-  │
-  ▼
-IMPROVE
-  │
-  └───────────────► REPEAT ∞
-```
+<img src="https://img.shields.io/badge/IDEA-0F172A?style=flat-square" alt="Idea" />
+&nbsp;&#10230;&nbsp;
+<img src="https://img.shields.io/badge/RESEARCH-164E63?style=flat-square" alt="Research" />
+&nbsp;&#10230;&nbsp;
+<img src="https://img.shields.io/badge/DESIGN-4338CA?style=flat-square" alt="Design" />
+&nbsp;&#10230;&nbsp;
+<img src="https://img.shields.io/badge/BUILD-6D28D9?style=flat-square" alt="Build" />
+&nbsp;&#10230;&nbsp;
+<img src="https://img.shields.io/badge/TEST-047857?style=flat-square" alt="Test" />
+&nbsp;&#10230;&nbsp;
+<img src="https://img.shields.io/badge/SHIP-00C853?style=flat-square" alt="Ship" />
+&nbsp;&#10230;&nbsp;
+<img src="https://img.shields.io/badge/IMPROVE-00F5FF?style=flat-square&labelColor=0F172A" alt="Improve" />
+
+<br/><br/>
+
+<strong>Purpose-driven. User-focused. Built to evolve.</strong>
 
 </div>
 
@@ -369,11 +385,19 @@ IMPROVE
 <div align="center">
 
 <a href="https://github.com/miqbaltrim">
-  <img src="https://img.shields.io/badge/GitHub-miqbaltrim-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-miqbaltrim-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.instagram.com/ibaal.te/">
+  <img src="https://img.shields.io/badge/Instagram-ibaal.te-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://www.linkedin.com/in/muhammadiqbal-3m">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Iqbal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://github.com/miqbaltrim?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Repositories-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Explore-My_Repositories-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore my repositories" />
 </a>
 
 </div>

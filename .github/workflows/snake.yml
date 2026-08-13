@@ -1,8 +1,8 @@
-name: 🐍 Generate Contribution Snake
+name: 📊 Generate Profile Contribution Assets
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "15 */6 * * *"
 
   workflow_dispatch:
 
@@ -13,26 +13,40 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-contribution-assets
+  cancel-in-progress: true
+
 jobs:
   generate:
-    name: Generate GitHub Contribution Snake
+    name: Generate GitHub Contribution Assets
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
+      - name: 📥 Checkout Profile Repository
+        uses: actions/checkout@v7.0.1
+
       - name: 🐍 Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-cyber.svg?color_snake=#00F5FF&color_dots=#161B22,#0E7490,#06B6D4,#22D3EE,#67E8F9
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#7C3AED
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00F5FF
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
-      - name: 🚀 Publish Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: 🔥 Generate Accurate Streak Card
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          options: >-
+            user=${{ github.repository_owner }}&theme=transparent&hide_border=true&background=0D1117&stroke=7C3AED&ring=00F5FF&fire=00F5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=7C3AED&dates=8B949E&card_width=800
+          path: dist/github-streak.svg
+          token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: 🚀 Publish Contribution Assets
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
           build_dir: dist

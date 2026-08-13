@@ -190,9 +190,8 @@ Clean and functional interfaces with strong visual identity.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miqbaltrim&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=00F5FF" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqbaltrim&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miqbaltrim&theme=github_dark" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miqbaltrim&theme=github_dark" alt="Top languages by repository" />
 
 </div>
 
@@ -200,7 +199,7 @@ Clean and functional interfaces with strong visual identity.
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=miqbaltrim&theme=transparent&hide_border=true&background=0D1117&stroke=7C3AED&ring=00F5FF&fire=00F5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=7C3AED&dates=8B949E" />
+<img width="95%" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-streak.svg" alt="GitHub contribution streak" />
 
 </div>
 
@@ -223,14 +222,14 @@ Clean and functional interfaces with strong visual identity.
 <h2 align="center">🐍 CONTRIBUTION MATRIX</h2>
 
 <div align="center">
-<p><em>Every contribution leaves a trail.</em></p>
+<p><em>Every contribution leaves a trail • Synced automatically with the original GitHub contribution calendar.</em></p>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake.svg" />
 <img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake.svg" />
 </picture>
 <br/><br/>
-<img src="https://img.shields.io/badge/UPDATE-DAILY-00F5FF?style=flat-square&labelColor=0F172A" alt="Updated daily" />
+<img src="https://img.shields.io/badge/AUTO-SYNC-6_HOURS-00F5FF?style=flat-square&labelColor=0F172A" alt="Synced every six hours" />
 <img src="https://img.shields.io/badge/WORKFLOW-ACTIVE-22C55E?style=flat-square&labelColor=0F172A" alt="Workflow active" />
 </div>
 

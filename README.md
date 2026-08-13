@@ -199,7 +199,11 @@ Clean and functional interfaces with strong visual identity.
 
 <div align="center">
 
-<img width="95%" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-streak.svg" alt="GitHub contribution streak" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-streak-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-streak.svg" />
+<img width="95%" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-streak-dark.svg" alt="GitHub contributions and streaks for the last year" />
+</picture>
 
 </div>
 
@@ -222,15 +226,25 @@ Clean and functional interfaces with strong visual identity.
 <h2 align="center">🐍 CONTRIBUTION MATRIX</h2>
 
 <div align="center">
-<p><em>Every contribution leaves a trail • Synced automatically with the original GitHub contribution calendar.</em></p>
+<p><em>Synced from the same rolling 12-month contribution calendar shown by GitHub.</em></p>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-calendar-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-calendar.svg" />
+<img width="100%" alt="GitHub contributions in the last year" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-calendar-dark.svg" />
+</picture>
+<br/><br/>
+<img src="https://img.shields.io/badge/AUTO_SYNC-EVERY_6_HOURS-00F5FF?style=flat-square&labelColor=0F172A" alt="Synced every six hours" />
+<img src="https://img.shields.io/badge/WORKFLOW-ACTIVE-22C55E?style=flat-square&labelColor=0F172A" alt="Workflow active" />
+
+<details>
+<summary><strong>🐍 Play contribution snake</strong></summary>
+<br/>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake.svg" />
-<img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake.svg" />
+<img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-<br/><br/>
-<img src="https://img.shields.io/badge/AUTO-SYNC-6_HOURS-00F5FF?style=flat-square&labelColor=0F172A" alt="Synced every six hours" />
-<img src="https://img.shields.io/badge/WORKFLOW-ACTIVE-22C55E?style=flat-square&labelColor=0F172A" alt="Workflow active" />
+</details>
 </div>
 
 <br/>

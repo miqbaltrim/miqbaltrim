@@ -11,16 +11,10 @@
 <div align="center">
 
 <a href="https://github.com/miqbaltrim">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Hello+World+%F0%9F%91%8B+I'm+miqbaltrim;Full+Stack+Developer+%F0%9F%92%BB;Laravel+%E2%80%A2+PHP+%E2%80%A2+Flutter+%E2%80%A2+PostgreSQL;Building+Web+%26+Mobile+Experiences+%F0%9F%9A%80;Code+%E2%80%A2+Design+%E2%80%A2+Create+%E2%80%A2+Innovate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Hello+World+%F0%9F%91%8B+I'm+miqbaltrim;Full+Stack+Developer;Laravel+%E2%80%A2+PHP+%E2%80%A2+Flutter+%E2%80%A2+PostgreSQL;Building+Web+%26+Mobile+Experiences;Code+%E2%80%A2+Design+%E2%80%A2+Create+%E2%80%A2+Innovate" alt="Typing SVG" />
 </a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=miqbaltrim&label=PROFILE+VIEWS&color=00b4d8&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/miqbaltrim?label=FOLLOWERS&style=for-the-badge&color=7c3aed&labelColor=0f172a" />
-
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-00F5FF?style=for-the-badge&labelColor=0f172a" />
 
 </div>
 
@@ -28,21 +22,21 @@
 
 ---
 
-<h2 align="center">⚡ ABOUT ME</h2>
+<h2 align="center">ABOUT ME</h2>
 
 <div align="center">
 
-<h3>Hi, I'm Iqbal 👋</h3>
+<h3>Hi, I'm Iqbal</h3>
 
 <p>
 Full Stack Developer, Mobile Developer & Data Analyst who turns ideas into<br/>
 <strong>useful, scalable, and thoughtfully designed digital products.</strong>
 </p>
 
-<img src="https://img.shields.io/badge/Full_Stack-Developer-00F5FF?style=flat-square&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/Mobile-Developer-7C3AED?style=flat-square&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/Data-Analyst-F2C811?style=flat-square&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/UI%2FUX-Enthusiast-EC4899?style=flat-square&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-00F5FF?style=flat-square&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/Mobile-Developer-7C3AED?style=flat-square&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/Data-Analyst-F2C811?style=flat-square&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Enthusiast-EC4899?style=flat-square&labelColor=0F172A" />
 
 </div>
 
@@ -52,26 +46,22 @@ Full Stack Developer, Mobile Developer & Data Analyst who turns ideas into<br/>
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h3>🛠️ What I Do</h3>
+<h3>What I Do</h3>
 
 <p>Build modern web and mobile applications<br/>for real-world business workflows.</p>
-
-<p><code>Laravel</code> <code>REST API</code> <code>Flutter</code></p>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<h3>🎯 Current Mission</h3>
+<h3>Current Mission</h3>
 
 <p>Bridging development and design to create<br/>simple, reliable, and delightful experiences.</p>
-
-<p><code>PostgreSQL</code> <code>Automation</code> <code>UI/UX</code></p>
 
 </td>
 </tr>
 </table>
 
-<p align="center"><em>Always learning • Always building • Always improving</em> 🚀</p>
+<p align="center"><em>Always learning • Always building • Always improving</em></p>
 
 <br/>
 
@@ -159,14 +149,14 @@ Full Stack Developer, Mobile Developer & Data Analyst who turns ideas into<br/>
 
 ---
 
-<h2 align="center">🚀 WHAT I BUILD</h2>
+<h2 align="center">WHAT I BUILD</h2>
 
 <table align="center">
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 Web Application</h3>
+<h3 align="center">Web Application</h3>
 
 <p align="center">
 Modern business applications powered by scalable backend architecture.
@@ -182,7 +172,7 @@ Modern business applications powered by scalable backend architecture.
 
 <td width="50%" valign="top">
 
-<h3 align="center">📱 Mobile Application</h3>
+<h3 align="center">Mobile Application</h3>
 
 <p align="center">
 Cross-platform mobile applications designed for real-world business workflows.
@@ -202,7 +192,7 @@ Cross-platform mobile applications designed for real-world business workflows.
 
 <td width="50%" valign="top">
 
-<h3 align="center">⚙️ Business Systems</h3>
+<h3 align="center">Business Systems</h3>
 
 <p align="center">
 Digital solutions for operational and enterprise business processes.
@@ -218,7 +208,7 @@ Digital solutions for operational and enterprise business processes.
 
 <td width="50%" valign="top">
 
-<h3 align="center">🎨 UI / Graphic Design</h3>
+<h3 align="center">UI / Graphic Design</h3>
 
 <p align="center">
 Clean and functional interfaces with strong visual identity.
@@ -242,7 +232,7 @@ Clean and functional interfaces with strong visual identity.
 
 <td width="100%" valign="top" align="center">
 
-<h3 align="center">📊 Data Analyst</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="center">
 Transforming raw business data into clear insights, interactive dashboards, and actionable decisions.
@@ -310,7 +300,7 @@ Transforming raw business data into clear insights, interactive dashboards, and 
 
 <br/><br/>
 
-<h3>🐍 Contribution Snake</h3>
+<h3>Contribution Snake</h3>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake-dark.svg" />
@@ -323,7 +313,7 @@ Transforming raw business data into clear insights, interactive dashboards, and 
 
 ---
 
-<h2 align="center">💻 SYSTEM STATUS</h2>
+<h2 align="center">SYSTEM STATUS</h2>
 
 <div align="center">
 
@@ -347,7 +337,7 @@ Transforming raw business data into clear insights, interactive dashboards, and 
 
 ---
 
-<h2 align="center">🧠 DEVELOPMENT PHILOSOPHY</h2>
+<h2 align="center">DEVELOPMENT PHILOSOPHY</h2>
 
 <div align="center">
 
@@ -381,7 +371,7 @@ IMPROVE
 
 ---
 
-<h2 align="center">🌐 CONNECT WITH ME</h2>
+<h2 align="center">CONNECT WITH ME</h2>
 
 <div align="center">
 

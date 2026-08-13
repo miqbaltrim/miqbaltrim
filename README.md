@@ -89,62 +89,56 @@ Full Stack Developer, Mobile Developer & Data Analyst who turns ideas into<br/>
 <tr>
 <td width="50%" align="center" valign="top">
 
-<h3>⚙️ Backend & API</h3>
+<h3>Backend & API</h3>
 <p><img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" alt="PHP, Laravel, and Node.js" /></p>
-<p><code>REST API</code> <code>Business Logic</code> <code>Automation</code></p>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<h3>✨ Frontend Engineering</h3>
+<h3>Frontend Engineering</h3>
 <p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css,bootstrap&perline=7&theme=dark" alt="React, Next.js, Tailwind CSS, JavaScript, HTML, CSS, and Bootstrap" /></p>
-<p><code>Responsive UI</code> <code>Design Systems</code> <code>Web Apps</code></p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 
-<h3>📱 Mobile & Data</h3>
+<h3>Mobile & Data</h3>
 <p><img src="https://skillicons.dev/icons?i=flutter,dart,postgres,mysql&theme=dark" alt="Flutter, Dart, PostgreSQL, and MySQL" /></p>
-<p><code>Cross Platform</code> <code>Relational Data</code> <code>Offline First</code></p>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<h3>🧰 Development Environment</h3>
+<h3>Development Environment</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio Code, and Postman" />
 <a href="https://laragon.org/"><img height="48" src="https://cdn.simpleicons.org/laragon/0E83CD" alt="Laragon" title="Laragon" /></a>
 </p>
-<p><code>Git Workflow</code> <code>API Testing</code> <code>Laragon</code></p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 
-<h3>🤖 AI Pair Programming</h3>
+<h3>AI Pair Programming</h3>
 <p>
 <a href="https://developers.openai.com/codex/"><img height="48" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/codex-logo.png" alt="OpenAI Codex" title="OpenAI Codex" /></a>
 &nbsp;&nbsp;
 <a href="https://www.anthropic.com/claude"><img height="48" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" title="Claude" /></a>
 </p>
-<p><code>Codex</code> <code>Claude</code> <code>Agentic Workflow</code></p>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<h3>🎨 Product Design</h3>
+<h3>Product Design</h3>
 <p><img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Figma, Adobe Photoshop, and Adobe Illustrator" /></p>
-<p><code>UI/UX</code> <code>Prototyping</code> <code>Visual Identity</code></p>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center" valign="top">
 
-<h3>📊 Data & Analytics</h3>
+<h3>Data & Analytics</h3>
 <p>
 <img height="48" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/excel-logo.svg" alt="Microsoft Excel" title="Microsoft Excel" />
 &nbsp;
@@ -156,7 +150,6 @@ Full Stack Developer, Mobile Developer & Data Analyst who turns ideas into<br/>
 &nbsp;
 <img height="48" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/macros-logo.svg" alt="Excel Macros and VBA" title="Excel Macros and VBA" />
 </p>
-<p><code>Data Cleaning</code> <code>Data Modeling</code> <code>Dashboard</code> <code>Business Intelligence</code> <code>Automation</code></p>
 
 </td>
 </tr>

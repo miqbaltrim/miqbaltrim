@@ -30,60 +30,47 @@
 
 <h2 align="center">⚡ ABOUT ME</h2>
 
-```javascript
-const developer = {
-    username: "miqbaltrim",
-
-    role: [
-        "Full Stack Developer",
-        "Mobile Developer",
-        "UI/UX Enthusiast",
-        "Graphic Designer"
-    ],
-
-    backend: [
-        "PHP",
-        "Laravel",
-        "REST API"
-    ],
-
-    mobile: [
-        "Flutter",
-        "Dart"
-    ],
-
-    database: [
-        "PostgreSQL",
-        "MySQL"
-    ],
-
-    design: [
-        "Figma",
-        "Adobe Photoshop",
-        "Adobe Illustrator"
-    ],
-
-    currentMission: "Turning ideas into useful digital products.",
-
-    status: "Always learning. Always building. 🚀"
-};
-```
-
 <div align="center">
 
-### `> whoami`
+<h3>Hi, I'm Iqbal 👋</h3>
 
-💻 Full Stack Developer focused on building **modern web and mobile applications**
+<p>
+Full Stack & Mobile Developer who turns ideas into<br/>
+<strong>useful, scalable, and thoughtfully designed digital products.</strong>
+</p>
 
-🚀 Building scalable solutions using **Laravel, Flutter & PostgreSQL**
-
-🎨 Combining **development + design** to create better digital experiences
-
-⚡ Interested in **automation, business systems, mobile applications & UI/UX**
-
-🧠 Always exploring new technologies and better ways to build software
+<img src="https://img.shields.io/badge/Full_Stack-Developer-00F5FF?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Mobile-Developer-7C3AED?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/UI%2FUX-Enthusiast-EC4899?style=flat-square&labelColor=0F172A" />
 
 </div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<h3>🛠️ What I Do</h3>
+
+<p>Build modern web and mobile applications<br/>for real-world business workflows.</p>
+
+<p><code>Laravel</code> <code>REST API</code> <code>Flutter</code></p>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<h3>🎯 Current Mission</h3>
+
+<p>Bridging development and design to create<br/>simple, reliable, and delightful experiences.</p>
+
+<p><code>PostgreSQL</code> <code>Automation</code> <code>UI/UX</code></p>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><em>Always learning • Always building • Always improving</em> 🚀</p>
 
 <br/>
 
@@ -236,28 +223,15 @@ Clean and functional interfaces with strong visual identity.
 <h2 align="center">🐍 CONTRIBUTION MATRIX</h2>
 
 <div align="center">
-
-<p>
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake.svg"
-    />
-
-  </picture>
-</p>
-
+<p><em>Every contribution leaves a trail.</em></p>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake.svg" />
+<img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake.svg" />
+</picture>
+<br/><br/>
+<img src="https://img.shields.io/badge/UPDATE-DAILY-00F5FF?style=flat-square&labelColor=0F172A" alt="Updated daily" />
+<img src="https://img.shields.io/badge/WORKFLOW-ACTIVE-22C55E?style=flat-square&labelColor=0F172A" alt="Workflow active" />
 </div>
 
 <br/>
@@ -266,20 +240,23 @@ Clean and functional interfaces with strong visual identity.
 
 <h2 align="center">💻 SYSTEM STATUS</h2>
 
-```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│   USER        : miqbaltrim                    │
-│   MODE        : BUILDING                      │
-│   ENERGY      : ████████████████████ 100%     │
-│   COFFEE      : █████████████████░░░  85%     │
-│   BUGS        : ███░░░░░░░░░░░░░░░░░  15%     │
-│   CURIOSITY   : ████████████████████ ∞        │
-│                                               │
-│   STATUS      : ONLINE 🟢                     │
-│                                               │
-└───────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge&labelColor=0F172A" alt="Status online" />
+<img src="https://img.shields.io/badge/MODE-BUILDING-00F5FF?style=for-the-badge&labelColor=0F172A" alt="Building mode" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ENERGY-100%25-7C3AED?style=flat-square&labelColor=161B22" alt="Energy 100 percent" />
+<img src="https://img.shields.io/badge/COFFEE-85%25-F59E0B?style=flat-square&labelColor=161B22" alt="Coffee 85 percent" />
+<img src="https://img.shields.io/badge/BUGS-15%25-EF4444?style=flat-square&labelColor=161B22" alt="Bugs 15 percent" />
+<img src="https://img.shields.io/badge/CURIOSITY-∞-EC4899?style=flat-square&labelColor=161B22" alt="Infinite curiosity" />
+
+<br/><br/>
+
+<code>user@miqbaltrim:~$ build --learn --improve --repeat</code>
+
+</div>
 
 <br/>
 

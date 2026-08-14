@@ -6,7 +6,7 @@
 <line x1="300.0" y1="28" x2="300.0" y2="177" stroke="#8250DF"/>
 <line x1="600.0" y1="28" x2="600.0" y2="177" stroke="#8250DF"/>
 <circle cx="450" cy="76" r="48" fill="none" stroke="#0969DA" stroke-width="7"/>
-<text x="150" y="91" text-anchor="middle" fill="#1F2328" font-size="34" font-weight="700">623</text>
+<text x="150" y="91" text-anchor="middle" fill="#1F2328" font-size="34" font-weight="700">625</text>
 <text x="150" y="128" text-anchor="middle" fill="#8250DF" font-size="16">Contributions in the Last Year</text>
 <text x="150" y="160" text-anchor="middle" fill="#656D76" font-size="13">Aug 10, 2025 – Aug 14, 2026</text>
 <text x="450" y="88" text-anchor="middle" fill="#1F2328" font-size="34" font-weight="700">8</text>

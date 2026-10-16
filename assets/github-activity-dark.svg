@@ -6,7 +6,7 @@
 <rect width="900" height="225" rx="8" fill="#0D1117"/>
 <rect x="0.5" y="0.5" width="899" height="224" rx="8" fill="none" stroke="#30363D"/>
 <text x="24" y="31" fill="#F0F6FC" font-size="16" font-weight="600">Contribution Activity · Last 30 Days</text>
-<text x="876" y="31" text-anchor="end" fill="#8B949E" font-size="13">210 contributions</text>
+<text x="876" y="31" text-anchor="end" fill="#8B949E" font-size="13">212 contributions</text>
 <line x1="58" y1="187.0" x2="876" y2="187.0" stroke="#30363D" stroke-dasharray="3 5"/>
 <text x="46" y="191.0" text-anchor="end" fill="#8B949E" font-size="10">0</text>
 <line x1="58" y1="160.6" x2="876" y2="160.6" stroke="#30363D" stroke-dasharray="3 5"/>
@@ -19,8 +19,8 @@
 <text x="46" y="85.4" text-anchor="end" fill="#8B949E" font-size="10">20</text>
 <line x1="58" y1="55.0" x2="876" y2="55.0" stroke="#30363D" stroke-dasharray="3 5"/>
 <text x="46" y="59.0" text-anchor="end" fill="#8B949E" font-size="10">25</text>
-<path d="M 58.0 187.0 L 58.0 76.1 L 86.2 150.0 L 114.4 118.4 L 142.6 134.2 L 170.8 165.9 L 199.0 128.9 L 227.2 176.4 L 255.4 176.4 L 283.7 123.6 L 311.9 150.0 L 340.1 181.7 L 368.3 171.2 L 396.5 165.9 L 424.7 181.7 L 452.9 181.7 L 481.1 181.7 L 509.3 155.3 L 537.5 150.0 L 565.7 176.4 L 593.9 155.3 L 622.1 155.3 L 650.3 176.4 L 678.6 165.9 L 706.8 76.1 L 735.0 187.0 L 763.2 144.8 L 791.4 123.6 L 819.6 123.6 L 847.8 113.1 L 876.0 134.2 L 876.0 187.0 Z" fill="url(#activity-fill)"/>
-<polyline points="58.0,76.1 86.2,150.0 114.4,118.4 142.6,134.2 170.8,165.9 199.0,128.9 227.2,176.4 255.4,176.4 283.7,123.6 311.9,150.0 340.1,181.7 368.3,171.2 396.5,165.9 424.7,181.7 452.9,181.7 481.1,181.7 509.3,155.3 537.5,150.0 565.7,176.4 593.9,155.3 622.1,155.3 650.3,176.4 678.6,165.9 706.8,76.1 735.0,187.0 763.2,144.8 791.4,123.6 819.6,123.6 847.8,113.1 876.0,134.2" fill="none" stroke="#00F5FF" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 58.0 187.0 L 58.0 76.1 L 86.2 150.0 L 114.4 118.4 L 142.6 134.2 L 170.8 165.9 L 199.0 128.9 L 227.2 176.4 L 255.4 176.4 L 283.7 123.6 L 311.9 150.0 L 340.1 181.7 L 368.3 171.2 L 396.5 165.9 L 424.7 181.7 L 452.9 181.7 L 481.1 181.7 L 509.3 155.3 L 537.5 150.0 L 565.7 176.4 L 593.9 155.3 L 622.1 155.3 L 650.3 176.4 L 678.6 165.9 L 706.8 76.1 L 735.0 187.0 L 763.2 144.8 L 791.4 123.6 L 819.6 123.6 L 847.8 113.1 L 876.0 123.6 L 876.0 187.0 Z" fill="url(#activity-fill)"/>
+<polyline points="58.0,76.1 86.2,150.0 114.4,118.4 142.6,134.2 170.8,165.9 199.0,128.9 227.2,176.4 255.4,176.4 283.7,123.6 311.9,150.0 340.1,181.7 368.3,171.2 396.5,165.9 424.7,181.7 452.9,181.7 481.1,181.7 509.3,155.3 537.5,150.0 565.7,176.4 593.9,155.3 622.1,155.3 650.3,176.4 678.6,165.9 706.8,76.1 735.0,187.0 763.2,144.8 791.4,123.6 819.6,123.6 847.8,113.1 876.0,123.6" fill="none" stroke="#00F5FF" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="58.0" cy="76.1" r="2.5" fill="#0D1117" stroke="#00F5FF" stroke-width="2"/>
 <circle cx="86.2" cy="150.0" r="2.5" fill="#0D1117" stroke="#00F5FF" stroke-width="2"/>
 <circle cx="114.4" cy="118.4" r="2.5" fill="#0D1117" stroke="#00F5FF" stroke-width="2"/>
@@ -50,7 +50,7 @@
 <circle cx="791.4" cy="123.6" r="2.5" fill="#0D1117" stroke="#00F5FF" stroke-width="2"/>
 <circle cx="819.6" cy="123.6" r="2.5" fill="#0D1117" stroke="#00F5FF" stroke-width="2"/>
 <circle cx="847.8" cy="113.1" r="2.5" fill="#0D1117" stroke="#00F5FF" stroke-width="2"/>
-<circle cx="876.0" cy="134.2" r="2.5" fill="#0D1117" stroke="#00F5FF" stroke-width="2"/>
+<circle cx="876.0" cy="123.6" r="2.5" fill="#0D1117" stroke="#00F5FF" stroke-width="2"/>
 <text x="58.0" y="211" text-anchor="middle" fill="#8B949E" font-size="10">Sep 17</text>
 <text x="255.4" y="211" text-anchor="middle" fill="#8B949E" font-size="10">Sep 24</text>
 <text x="452.9" y="211" text-anchor="middle" fill="#8B949E" font-size="10">Oct 1</text>

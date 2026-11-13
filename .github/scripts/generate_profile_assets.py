@@ -24,22 +24,22 @@ class ContributionDay:
 
 THEMES = {
     "dark": {
-        "background": "#18232F",
-        "border": "#3C4650",
-        "text": "#F6F2E9",
-        "muted": "#B6B1A8",
-        "accent": "#C4A574",
-        "secondary": "#91A7A0",
-        "levels": ["#242F3B", "#445347", "#6D7958", "#9A9B68", "#C4A574"],
+        "background": "#142D26",
+        "border": "#365348",
+        "text": "#F4F3E9",
+        "muted": "#AFBFB3",
+        "accent": "#A9C99A",
+        "secondary": "#78AA94",
+        "levels": ["#203C31", "#365C46", "#527E5B", "#7AA276", "#A9C99A"],
     },
     "light": {
-        "background": "#FAF8F3",
-        "border": "#DED8CD",
-        "text": "#26313C",
-        "muted": "#6F716D",
-        "accent": "#8A6B3D",
-        "secondary": "#566F65",
-        "levels": ["#EDE9E0", "#DDD5BF", "#C1B18A", "#A18B5D", "#80673B"],
+        "background": "#F7F9F3",
+        "border": "#D6E1D3",
+        "text": "#203D30",
+        "muted": "#607568",
+        "accent": "#376B4B",
+        "secondary": "#61856C",
+        "levels": ["#E7EEE3", "#CFDFC5", "#A6C499", "#729A68", "#456F43"],
     },
 }
 

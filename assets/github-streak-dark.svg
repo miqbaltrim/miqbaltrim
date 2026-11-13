@@ -2,17 +2,17 @@
 <title id="title">GitHub contributions and streaks for the last year</title>
 <desc id="desc">Automatically generated from the public GitHub contribution calendar.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}</style>
-<rect x="0.5" y="0.5" width="899" height="204" rx="8" fill="#18232F" stroke="#3C4650"/>
-<line x1="300.0" y1="28" x2="300.0" y2="177" stroke="#91A7A0"/>
-<line x1="600.0" y1="28" x2="600.0" y2="177" stroke="#91A7A0"/>
-<circle cx="450" cy="76" r="48" fill="none" stroke="#C4A574" stroke-width="7"/>
-<text x="150" y="91" text-anchor="middle" fill="#F6F2E9" font-size="34" font-weight="700">1,309</text>
-<text x="150" y="128" text-anchor="middle" fill="#91A7A0" font-size="16">Contributions in the Last Year</text>
-<text x="150" y="160" text-anchor="middle" fill="#B6B1A8" font-size="13">Nov 9, 2025 – Nov 13, 2026</text>
-<text x="450" y="88" text-anchor="middle" fill="#F6F2E9" font-size="34" font-weight="700">5</text>
-<text x="450" y="143" text-anchor="middle" fill="#C4A574" font-size="16" font-weight="600">Current Streak</text>
-<text x="450" y="171" text-anchor="middle" fill="#B6B1A8" font-size="13">Nov 9 – Nov 13</text>
-<text x="750" y="91" text-anchor="middle" fill="#F6F2E9" font-size="34" font-weight="700">54</text>
-<text x="750" y="128" text-anchor="middle" fill="#91A7A0" font-size="16">Longest Streak</text>
-<text x="750" y="160" text-anchor="middle" fill="#B6B1A8" font-size="13">Aug 18 – Oct 10</text>
+<rect x="0.5" y="0.5" width="899" height="204" rx="8" fill="#142D26" stroke="#365348"/>
+<line x1="300.0" y1="28" x2="300.0" y2="177" stroke="#78AA94"/>
+<line x1="600.0" y1="28" x2="600.0" y2="177" stroke="#78AA94"/>
+<circle cx="450" cy="76" r="48" fill="none" stroke="#A9C99A" stroke-width="7"/>
+<text x="150" y="91" text-anchor="middle" fill="#F4F3E9" font-size="34" font-weight="700">1,309</text>
+<text x="150" y="128" text-anchor="middle" fill="#78AA94" font-size="16">Contributions in the Last Year</text>
+<text x="150" y="160" text-anchor="middle" fill="#AFBFB3" font-size="13">Nov 9, 2025 – Nov 13, 2026</text>
+<text x="450" y="88" text-anchor="middle" fill="#F4F3E9" font-size="34" font-weight="700">5</text>
+<text x="450" y="143" text-anchor="middle" fill="#A9C99A" font-size="16" font-weight="600">Current Streak</text>
+<text x="450" y="171" text-anchor="middle" fill="#AFBFB3" font-size="13">Nov 9 – Nov 13</text>
+<text x="750" y="91" text-anchor="middle" fill="#F4F3E9" font-size="34" font-weight="700">54</text>
+<text x="750" y="128" text-anchor="middle" fill="#78AA94" font-size="16">Longest Streak</text>
+<text x="750" y="160" text-anchor="middle" fill="#AFBFB3" font-size="13">Aug 18 – Oct 10</text>
 </svg>

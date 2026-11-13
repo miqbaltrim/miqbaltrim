@@ -72,7 +72,7 @@ My work spans web and mobile applications, operational systems, and data analyti
 
 **Build with care.** Translate clear thinking into accessible design, maintainable code, and reliable experiences.
 
-**Refine with evidence.**Damn Learn from real use, measure the impact, and improve the details over time.
+**Refine with evidence.** Learn from real use, measure the impact, and improve the details over time.
 
 <br />
 

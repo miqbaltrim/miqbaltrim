@@ -2,6 +2,7 @@
 <title id="title">GitHub contributions and streaks for the last year</title>
 <desc id="desc">Automatically generated from the public GitHub contribution calendar.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}</style>
+<<<<<<< HEAD
 <rect x="0.5" y="0.5" width="899" height="204" rx="8" fill="#FAF8F3" stroke="#DED8CD"/>
 <line x1="300.0" y1="28" x2="300.0" y2="177" stroke="#566F65"/>
 <line x1="600.0" y1="28" x2="600.0" y2="177" stroke="#566F65"/>
@@ -15,4 +16,19 @@
 <text x="750" y="91" text-anchor="middle" fill="#26313C" font-size="34" font-weight="700">10</text>
 <text x="750" y="128" text-anchor="middle" fill="#566F65" font-size="16">Longest Streak</text>
 <text x="750" y="160" text-anchor="middle" fill="#6F716D" font-size="13">Apr 11 – Apr 20</text>
+=======
+<rect x="0.5" y="0.5" width="899" height="204" rx="8" fill="#FFFFFF" stroke="#D0D7DE"/>
+<line x1="300.0" y1="28" x2="300.0" y2="177" stroke="#8250DF"/>
+<line x1="600.0" y1="28" x2="600.0" y2="177" stroke="#8250DF"/>
+<circle cx="450" cy="76" r="48" fill="none" stroke="#0969DA" stroke-width="7"/>
+<text x="150" y="91" text-anchor="middle" fill="#1F2328" font-size="34" font-weight="700">1,307</text>
+<text x="150" y="128" text-anchor="middle" fill="#8250DF" font-size="16">Contributions in the Last Year</text>
+<text x="150" y="160" text-anchor="middle" fill="#656D76" font-size="13">Nov 9, 2025 – Nov 13, 2026</text>
+<text x="450" y="88" text-anchor="middle" fill="#1F2328" font-size="34" font-weight="700">5</text>
+<text x="450" y="143" text-anchor="middle" fill="#0969DA" font-size="16" font-weight="600">Current Streak</text>
+<text x="450" y="171" text-anchor="middle" fill="#656D76" font-size="13">Nov 9 – Nov 13</text>
+<text x="750" y="91" text-anchor="middle" fill="#1F2328" font-size="34" font-weight="700">54</text>
+<text x="750" y="128" text-anchor="middle" fill="#8250DF" font-size="16">Longest Streak</text>
+<text x="750" y="160" text-anchor="middle" fill="#656D76" font-size="13">Aug 18 – Oct 10</text>
+>>>>>>> 5527dc1fbde6137dfbdd647f5870c1e97064019a
 </svg>

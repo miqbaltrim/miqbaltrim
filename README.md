@@ -1,429 +1,113 @@
-<!-- ===================================================== -->
-<!--              MIQBALTRIM GITHUB PROFILE                -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F5FF,50:7C3AED,100:0F172A&text=Muhammad+Iqbal+Tri+Mulyono&fontColor=FFFFFF&fontSize=55&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20MOBILE%20DEVELOPER%20%7C%20UI%2FUX&descAlignY=60&descSize=16"/>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/miqbaltrim">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Hello+World+%F0%9F%91%8B+I'm+miqbaltrim;Full+Stack+Developer;Laravel+%E2%80%A2+PHP+%E2%80%A2+Flutter+%E2%80%A2+PostgreSQL;Building+Web+%26+Mobile+Experiences;Code+%E2%80%A2+Design+%E2%80%A2+Create+%E2%80%A2+Innovate" alt="Typing SVG" />
-</a>
-
-<br/>
-
-</div>
-
-<br/>
-
----
-
-<h2 align="center">ABOUT ME</h2>
-
-<div align="center">
-
-<h3>Hi, I'm Iqbal</h3>
-
-<p>
-Full Stack Developer, Mobile Developer & Data Analyst who turns ideas into<br/>
-<strong>useful, scalable, and thoughtfully designed digital products.</strong>
+<p align="center">
+  <img src="assets/profile-header.svg" width="100%" alt="Muhammad Iqbal Tri Mulyono &middot; Full Stack Developer, Mobile Developer &amp; Data Analyst" />
 </p>
 
-  <img src="https://img.shields.io/badge/Full_Stack-Developer-00F5FF?style=flat-square&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/Mobile-Developer-7C3AED?style=flat-square&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/Data-Analyst-F2C811?style=flat-square&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Enthusiast-EC4899?style=flat-square&labelColor=0F172A" />
+<p align="center">
+  <a href="https://github.com/miqbaltrim?tab=repositories">Explore repositories</a>
+  &nbsp; &middot; &nbsp;
+  <a href="https://www.linkedin.com/in/muhammadiqbal-3m">LinkedIn</a>
+  &nbsp; &middot; &nbsp;
+  <a href="https://www.instagram.com/ibaal.te/">Instagram</a>
+</p>
 
-</div>
+<br />
 
-<br/>
+## About
+
+I'm **Iqbal**, a Full Stack Developer, Mobile Developer, and Data Analyst. I build useful, reliable digital products that connect thoughtful design with real business needs.
+
+My work spans web and mobile applications, operational systems, and data analytics &middot; from simplifying everyday workflows to turning business data into clear, actionable insights.
+
+<br />
+
+## Areas of practice
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top" align="center">
-
-<h3>What I Do</h3>
-
-<p>Build modern web, mobile, and data solutions for real-world business workflows.</p>
-
+<td width="50%" valign="top">
+<h3>01 &nbsp; Web &amp; Business Systems</h3>
+<p>Web applications and backend services for everyday operations, including ERP, SFA, budgeting, approval workflows, and automation.</p>
+<p><sub>LARAVEL / PHP / JAVASCRIPT / REST API</sub></p>
 </td>
-<td width="34%" valign="top" align="center">
-
-<h3>Current Mission</h3>
-
-<p>Bridge development, design, and data to create simple, reliable digital experiences.</p>
-
+<td width="50%" valign="top">
+<h3>02 &nbsp; Mobile Applications</h3>
+<p>Cross-platform applications with clear interfaces and reliable connections to business systems.</p>
+<p><sub>FLUTTER / DART / MOBILE UI</sub></p>
 </td>
-<td width="33%" valign="top" align="center">
-
-<h3>Data & Insights</h3>
-
-<p>Turn raw business data into useful dashboards, automation, and actionable insights.</p>
-
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 &nbsp; Data &amp; Analytics</h3>
+<p>Dashboards, reporting, and automation that make complex business data easier to understand and use.</p>
+<p><sub>EXCEL / POWER BI / POWER PIVOT / PYTHON / VBA</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>04 &nbsp; Interface &amp; Visual Design</h3>
+<p>Considered interfaces and visual identities that balance clarity, usability, and character.</p>
+<p><sub>FIGMA / PHOTOSHOP / ILLUSTRATOR / UI &amp; UX</sub></p>
 </td>
 </tr>
 </table>
 
-<p align="center"><em>Always learning • Always building • Always improving</em></p>
+<br />
 
-<br/>
+## Tools of the trade
 
----
+| Discipline | Technologies & tools |
+| :--- | :--- |
+| Backend | PHP &middot; Laravel &middot; Node.js &middot; REST API |
+| Frontend | React &middot; Next.js &middot; JavaScript &middot; Tailwind CSS &middot; Bootstrap &middot; HTML &middot; CSS |
+| Mobile | Flutter &middot; Dart |
+| Databases | PostgreSQL &middot; MySQL |
+| Data & reporting | Excel &middot; Power Pivot &middot; Power BI &middot; Python &middot; Macros / VBA |
+| Design | Figma &middot; Adobe Photoshop &middot; Adobe Illustrator |
+| Development | Git &middot; GitHub &middot; VS Code &middot; Postman &middot; Laragon |
+| AI assistance | OpenAI Codex &middot; Claude |
 
-<h2 align="center">TECH & TOOLS</h2>
+<br />
 
-<div align="center">
+## Working principles
 
-</div>
+**Understand the problem.** Start with the context, the people, and the outcome that matters.
 
-<br/>
+**Build with care.** Translate clear thinking into accessible design, maintainable code, and reliable experiences.
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
+**Refine with evidence.** Learn from real use, measure the impact, and improve the details over time.
 
-<h3>Backend & API</h3>
-<p><img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" alt="PHP, Laravel, and Node.js" /></p>
+<br />
 
-</td>
-<td width="50%" align="center" valign="top">
-
-<h3>Frontend Engineering</h3>
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css,bootstrap&perline=7&theme=dark" alt="React, Next.js, Tailwind CSS, JavaScript, HTML, CSS, and Bootstrap" /></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<h3>Mobile & Data</h3>
-<p><img src="https://skillicons.dev/icons?i=flutter,dart,postgres,mysql&theme=dark" alt="Flutter, Dart, PostgreSQL, and MySQL" /></p>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<h3>Development Environment</h3>
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio Code, and Postman" />
-<a href="https://laragon.org/"><img height="48" src="https://cdn.simpleicons.org/laragon/0E83CD" alt="Laragon" title="Laragon" /></a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<h3>AI Pair Programming</h3>
-<p>
-<a href="https://developers.openai.com/codex/"><img height="48" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/codex-logo.png" alt="OpenAI Codex" title="OpenAI Codex" /></a>
-&nbsp;&nbsp;
-<a href="https://www.anthropic.com/claude"><img height="48" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" title="Claude" /></a>
-</p>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<h3>Product Design</h3>
-<p><img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Figma, Adobe Photoshop, and Adobe Illustrator" /></p>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
-
-<h3>Data & Analytics</h3>
-<p>
-<img height="48" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/excel-logo.svg" alt="Microsoft Excel" title="Microsoft Excel" />
-&nbsp;
-<img height="48" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/power-pivot-logo.svg" alt="Power Pivot" title="Power Pivot" />
-&nbsp;
-<img height="48" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/power-bi-logo.svg" alt="Microsoft Power BI" title="Microsoft Power BI" />
-&nbsp;
-<img height="48" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python" />
-&nbsp;
-<img height="48" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/macros-logo.svg" alt="Excel Macros and VBA" title="Excel Macros and VBA" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<h2 align="center">WHAT I BUILD</h2>
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">Web Application</h3>
-
-<p align="center">
-Modern business applications powered by scalable backend architecture.
-</p>
-
-<p align="center">
-
-`Laravel` `PHP` `JavaScript` `REST API` `PostgreSQL`
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">Mobile Application</h3>
-
-<p align="center">
-Cross-platform mobile applications designed for real-world business workflows.
-</p>
-
-<p align="center">
-
-`Flutter` `Dart` `REST API` `Mobile UI`
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">Business Systems</h3>
-
-<p align="center">
-Digital solutions for operational and enterprise business processes.
-</p>
-
-<p align="center">
-
-`ERP` `SFA` `Budgeting` `Approval System` `Automation`
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">UI / Graphic Design</h3>
-
-<p align="center">
-Clean and functional interfaces with strong visual identity.
-</p>
-
-<p align="center">
-
-`Figma` `Photoshop` `Illustrator` `UI/UX`
-
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<table align="center" width="50%">
-<tr>
-
-<td width="100%" valign="top" align="center">
-
-<h3 align="center">Data Analyst</h3>
-
-<p align="center">
-Transforming raw business data into clear insights, interactive dashboards, and actionable decisions.
-</p>
-
-<p align="center">
-
-`Excel` `Power Pivot` `Power BI` `Python` `Macros / VBA`
-
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
----
-
-<h2 align="center">GITHUB ACTIVITY</h2>
-
-<div align="center">
-
+## GitHub activity
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/github-streak-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/github-streak.svg" />
-<img width="95%" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/github-streak-dark.svg" alt="GitHub contributions and streaks for the last year" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-streak-dark.svg" />
+  <img width="100%" src="assets/github-streak.svg" alt="GitHub contributions and streaks for the last year" />
 </picture>
 
-</div>
-
-<br/>
-
----
-
-<h2 align="center">DEVELOPMENT ACTIVITY</h2>
-
-<div align="center">
+<br /><br />
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/github-activity-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/github-activity.svg" />
-<img width="98%" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/main/assets/github-activity-dark.svg" alt="GitHub contribution activity for the last 30 days" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-activity-dark.svg" />
+  <img width="100%" src="assets/github-activity.svg" alt="GitHub contribution activity for the last 30 days" />
 </picture>
 
-</div>
-
-<br/>
-
----
-
-<h2 align="center">CONTRIBUTION</h2>
-
-<div align="center">
-
+<details>
+<summary>View contribution animation</summary>
+<br />
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake.svg" />
-<img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/miqbaltrim/miqbaltrim/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" src="assets/github-contribution-grid-snake.svg" alt="Animated GitHub contribution calendar" />
 </picture>
-</div>
+</details>
 
-<br/>
+<br />
 
 ---
-
-<h2 align="center">DEVELOPMENT PHILOSOPHY</h2>
 
 <p align="center">
-  <em>From a meaningful problem to a product that keeps getting better.</em>
+  <em>Thoughtful design. Reliable engineering. Meaningful outcomes.</em>
 </p>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/01-DISCOVER-00F5FF?style=for-the-badge&labelColor=0F172A" alt="01 Discover" />
-
-<h3>Think With Purpose</h3>
-
-<p>Understand the problem, explore the context, and define what success should look like.</p>
-
-<p><code>IDEA</code> &nbsp; <code>RESEARCH</code> &nbsp; <code>STRATEGY</code></p>
-
-</td>
-<td width="34%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/02-ENGINEER-7C3AED?style=for-the-badge&labelColor=0F172A" alt="02 Engineer" />
-
-<h3>Build With Precision</h3>
-
-<p>Turn clear thinking into accessible design, clean code, and reliable experiences.</p>
-
-<p><code>DESIGN</code> &nbsp; <code>CODE</code> &nbsp; <code>TEST</code></p>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/03-EVOLVE-00E676?style=for-the-badge&labelColor=0F172A" alt="03 Evolve" />
-
-<h3>Improve With Data</h3>
-
-<p>Ship confidently, measure real impact, and continuously refine every solution.</p>
-
-<p><code>DEPLOY</code> &nbsp; <code>MEASURE</code> &nbsp; <code>IMPROVE</code></p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/IDEA-0F172A?style=flat-square" alt="Idea" />
-&nbsp;&#10230;&nbsp;
-<img src="https://img.shields.io/badge/RESEARCH-164E63?style=flat-square" alt="Research" />
-&nbsp;&#10230;&nbsp;
-<img src="https://img.shields.io/badge/DESIGN-4338CA?style=flat-square" alt="Design" />
-&nbsp;&#10230;&nbsp;
-<img src="https://img.shields.io/badge/BUILD-6D28D9?style=flat-square" alt="Build" />
-&nbsp;&#10230;&nbsp;
-<img src="https://img.shields.io/badge/TEST-047857?style=flat-square" alt="Test" />
-&nbsp;&#10230;&nbsp;
-<img src="https://img.shields.io/badge/SHIP-00C853?style=flat-square" alt="Ship" />
-&nbsp;&#10230;&nbsp;
-<img src="https://img.shields.io/badge/IMPROVE-00F5FF?style=flat-square&labelColor=0F172A" alt="Improve" />
-
-<br/><br/>
-
-<strong>Purpose-driven. User-focused. Built to evolve.</strong>
-
-</div>
-
-<br/>
-
----
-
-<h2 align="center">CONNECT WITH ME</h2>
-
-<div align="center">
-
-<a href="https://github.com/miqbaltrim">
-  <img src="https://img.shields.io/badge/GitHub-miqbaltrim-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://www.instagram.com/ibaal.te/">
-  <img src="https://img.shields.io/badge/Instagram-ibaal.te-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<a href="https://www.linkedin.com/in/muhammadiqbal-3m">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Iqbal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/miqbaltrim?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Repositories-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore my repositories" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║         CODE  •  DESIGN  •  BUILD  •  INNOVATE          ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-### Thanks for visiting my digital space. 👾
-
-**Let's build something awesome.**
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00F5FF,50:7C3AED,100:0F172A&section=footer"/>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammadiqbal-3m">Let's connect</a>
+  &nbsp; &middot; &nbsp;
+  <a href="https://github.com/miqbaltrim">@miqbaltrim</a>
+</p>
